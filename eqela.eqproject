@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# eqela2
+#
+
+projectname: eqela2
+vendorid: com.milo.eqela2
+mainmodule: com.milo.eqela2.eqela2
